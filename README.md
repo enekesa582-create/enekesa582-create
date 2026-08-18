@@ -42,6 +42,29 @@ Tools
 * GitHub
 
 📊 Featured Projects
+## 📊 Featured Projects
+
+### 🎬 Movie Recommendation System
+
+Machine-learning recommendation system built using Python and the MovieLens dataset.
+
+[View Project](https://github.com/enekesa582-create/movie-recommendation-system)
+
+### 🌱 Maji Ndogo Agricultural Data Analysis
+
+Exploratory analysis and validation of real-world agricultural and weather data.
+
+### 🏥 Health Data SQL Analysis
+
+SQL-based analysis of multi-year health data to identify patterns and insights.
+
+### 📈 Power BI Business Dashboard
+
+Interactive data visualization and business intelligence project.
+
+### 🤖 AI-Assisted Campaign Design
+
+Generative AI project using prompt engineering and AI-assisted content creation.
 
 🎬 Movie Recommendation System
 Machine-learning recommendation system built using Python and the MovieLens dataset.
